@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hey, i'm Julian!:
 I am a computer science student aspiring to become a software engineer, with a strong interest in fields like machine learning and AI.
 
 
