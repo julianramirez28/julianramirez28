@@ -1,4 +1,4 @@
-# 👋 Hey, i'm Julian!:
+# 👋 Hey, I'm Julian!
 I am a computer science student aspiring to become a software engineer, with a strong interest in fields like machine learning and AI.
 
 
